@@ -1,0 +1,3 @@
+#Just print
+
+print("hello")
